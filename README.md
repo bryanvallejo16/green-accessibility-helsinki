@@ -1,10 +1,10 @@
 # ***Green Accessibility Index*** by Dominant Area with different transportation modes - Helsinki
 
 ### **SOME RESULTS**
-![Walking green accessibility](maps and charts/walking_green_index.png)
-![Car green accessibility low income](maps and charts/car_low_income_green_index.png)
-![Green access all people](maps and charts/all_pop_green_index_variation.png)
-![Green access low income group](maps and charts/low_income_green_index_variation.png)
+![Walking green accessibility](maps_and_charts/walking_green_index.png)
+![Car green accessibility low income](maps_and_charts/car_low_income_green_index.png)
+![Green access all people](maps_and_charts/all_pop_green_index_variation.png)
+![Green access low income group](maps_and_charts/low_income_green_index_variation.png)
 
 ### **INTRODUCTION**
 In our work we utilise a common premise on the knowledge and information gathered about people’s access to green areas and its positive (self reported and experienced) health and wellbeing impacts, the norm considered as sustainable is 26 m2 (Badiu, 2016); particularly arguing the possibilities to access wellbeing in the form of (urban) green are equal / different by different social group (genre, socioeconomic factor, age, etc) and by different travel modes (walk, bike, car, bus).  This point of view generates research enveloped into accessibility and sustainability (spatial justice) for urban areas.
