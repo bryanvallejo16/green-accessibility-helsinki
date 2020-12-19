@@ -1,11 +1,5 @@
 ## ***Green Accessibility Index*** by Dominant Area with different transportation modes - Helsinki
 
-### **SOME RESULTS**
-![Walking green accessibility](maps_and_charts/walking_green_index.png)
-![Car green accessibility low income](maps_and_charts/car_low_income_green_index.png)
-![Green access all people](maps_and_charts/all_pop_green_index_variation.png)
-![Green access low income group](maps_and_charts/low_income_green_index_variation.png)
-
 ### **INTRODUCTION**
 In our work we utilise a common premise on the knowledge and information gathered about people’s access to green areas and its positive (self reported and experienced) health and wellbeing impacts, the norm considered as sustainable is 26 m2 (Badiu, 2016); particularly arguing the possibilities to access wellbeing in the form of (urban) green are equal / different by different social group (genre, socioeconomic factor, age, etc) and by different travel modes (walk, bike, car, bus).  This point of view generates research enveloped into accessibility and sustainability (spatial justice) for urban areas.
 Therefore we want to examine how accessible (urban) green is to people residing in the capital region in Finland: the goal is to explore green areas supporting user health and wellbeing - what is the “price” (in terms of accessibility; travel time with different transport modes, green areas accessibility variation by different travel modes ) of wellbeing derived from urban green for users living in urban core areas and in different parts or locations of the capital region (i.e. the municipalities/travel zones of the capital region). In this assignment we might analyze selected urban and national parks as green areas in the metropolitan area of Helsinki. The point is to measure green areas accessibility variation of the population by utilising the capital region travel time matrix zonafied into dominant travel zones (minimum travel times) with different travel modes. Then, compare how the ‘green access index’ (green areas per person) varies by different travel modes in dominant travel areas. Afterwards, comprehend if there is such variation of ‘green access index’ with specific social groups and for this case the low income inhabitants were used. In order to achieve this purpose the next research questions were formulated.
@@ -43,6 +37,13 @@ Then, to understand the variability of green access index and spline line charts
 This assignment matches with sustainability literature for urban infrastructure which study the health and quality of life of citizens as a key point. Some studies can be reviewed by Badiu (2016). What it is originally from this own assignment is that we are considering green areas accessibility based on the best travel mode which gives the opportunity to reach green areas.
 Some studies about accessibility consider 750m as a service area which corresponds to 15 minutes walking at 3km/h like Pafi (2016). These points will be developed with the Helsinki travel time matrix which considers more persize the travel times and by choosing the best travel mode for green access we are able to promote this assignment as a tool for urban promoters or local governments.
 
+### **SOME RESULTS**
+![Walking green accessibility](maps_and_charts/walking_green_index.png)
+![Car green accessibility low income](maps_and_charts/car_low_income_green_index.png)
+![Green access all people](maps_and_charts/all_pop_green_index_variation.png)
+![Green access low income group](maps_and_charts/low_income_green_index_variation.png)
+![Green access bar all people](maps_and_charts/all_pop_green_index_variation_bars.png)
+![Green access bar low income group](maps_and_charts/lowincome_pop_green_index_variation_bars.png)
 
 
 
